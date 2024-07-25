@@ -6,10 +6,7 @@ from read_data_from_mongodb import find_userdata
 import mysql.connector
 import boto3
 
-# S3 Bucket connection
-S3_BUCKET = 'helloayushi'
-S3_KEY = 'AKIARXF3NNV2APAJKJEY'
-S3_SECRET = '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'
+
 
 
 # # MySql connection
